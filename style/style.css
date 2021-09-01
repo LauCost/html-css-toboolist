@@ -1,8 +1,12 @@
 body{
     margin: 0;
+    background-color: #e4e4e473;
 }
 
 /* Header */
+header{
+    background-color: white;
+}
 #contenitore-logo{
         width: 100%;
     height: 100px;
@@ -22,3 +26,34 @@ body{
 /* /Header */
 
 /* Main */
+main{
+    margin: auto;
+    padding-top: 50px;
+    width: 50%;
+}
+
+.cont-bottoni{
+    background-color: white;
+    border: 2px solid #FBFCFC;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#Task{
+    color: white;
+    background-color: #47ADF1;
+    border: 0;
+    padding: 7px 15px;
+    margin: 15px 0 10px 70px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#Section{
+    color: #D4D8DC;
+    background-color: #FFFFFF;
+    border: 2px solid;
+    padding: 7px 15px;
+    border-radius: 5px;
+    font-size: 20px;
+}
