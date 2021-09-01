@@ -34,6 +34,7 @@ main{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
     margin-top: 50px;
+    margin-bottom: 25px;
 }
 /* Bottoni */
 .cont-bottoni{
@@ -72,7 +73,7 @@ main{
 }
 
 .cont-testo{
-    margin:25px 70px
+    margin:25px 70px;
 }
 
 .titolini{
@@ -122,6 +123,20 @@ main{
 
 .mob{
     background-color: #F29E33;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.web{
+    background-color: #D863A1;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.sales{
+    background-color: #B0C926;
     color: white;
     border-radius: 10px;
     padding: 5px 10px;
