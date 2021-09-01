@@ -28,13 +28,16 @@ header{
 /* Main */
 main{
     margin: auto;
-    padding-top: 50px;
     width: 50%;
+    background-color: #F6F8F9;
+    border: #F6F8F9;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-top: 50px;
 }
-
+/* Bottoni */
 .cont-bottoni{
     background-color: white;
-    border: 2px solid #FBFCFC;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
@@ -57,3 +60,37 @@ main{
     border-radius: 5px;
     font-size: 20px;
 }
+/* /Bottoni */
+
+/* Task */
+.cont-task{
+    background-color: white;
+    border: 1px solid #FBFCFC;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 2px;
+}
+
+.cont-testo{
+    margin:25px 70px
+}
+
+.titolini{
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.check{
+    border: 1px solid #82CFBE;
+    border-radius: 100%;
+    color: #82CFBE;
+}
+
+.editorial{
+    background-color: #45ABEA;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
