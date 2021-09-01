@@ -76,15 +76,16 @@ main{
 }
 
 .titolini{
-    font-family: Tahoma, sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: bold;
     font-size: 25px;
 }
 
 .check{
-    border: 1px solid #82CFBE;
+    border: 3px solid #82CFBE;
     border-radius: 100%;
     color: #82CFBE;
+    padding: 5px;
 }
 
 .editorial{
@@ -94,3 +95,34 @@ main{
     padding: 5px 10px;
 }
 
+.testi{
+    font-size: 25px;
+}
+
+.Q1{
+    background-color: #9C72E4;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.ballot{
+    border: 3px solid #EB5952;
+    border-radius: 100%;
+    color: #EB5952;
+    padding: 5px;
+}
+
+.rec{
+    background-color: #64C0A9;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.mob{
+    background-color: #F29E33;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
